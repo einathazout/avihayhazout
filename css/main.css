@@ -53,7 +53,25 @@ i{
     color: #F2EDE6;
     font-size: 3vw;
 }
-
+.more{
+    background: #4BB092;
+    padding: 15px 0;
+    color: #F2EDE6;
+    font-size: 5vw;
+}
+.fa-angle-left{
+    margin: 0 10px;
+}
+.long_road {
+    display: none;
+    direction: rtl;
+    margin: 10px 50px;
+    font-size: 4vw;
+}
+.direction_short_road {
+    cursor: pointer;
+    text-align: center;
+}
 @media (max-width: 767px){
     .oz-body-wrap{
         margin: 0px;
