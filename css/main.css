@@ -12,7 +12,7 @@ body {
     margin: 50px 20vw;
 }
 .banner-area, .about-area, .feature-area .overlay-bg {
-    background: #4BB092;
+    background: #13293D;
 }
 .banner-area, .about-area, .feature-area .overlay-bg{
     border: 0.5px solid #F2EDE6;
@@ -54,7 +54,7 @@ i{
     font-size: 3vw;
 }
 .more{
-    background: #4BB092;
+    background: #13293D;
     padding: 15px 0;
     color: #F2EDE6;
     font-size: 5vw;
