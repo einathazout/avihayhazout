@@ -29,6 +29,9 @@ body {
     font-size: 10vw;
     padding: 0;
 }
+.feature-area .icon:hover{
+    background-color: transparent;
+}
 .story-content h2{
     color: #F2EDE6;
 }
