@@ -22,7 +22,9 @@ body {
     padding: 0;
 }
 .feature-area{
-    padding-top: 30px;
+    padding: 5vw;
+    padding-top: 10vw;
+    padding-bottom: 0;
 }
 .feature-area .icon{
     background-color: transparent;
@@ -52,6 +54,7 @@ i{
 .feature-area .desc h2{
     color: #F2EDE6;
     font-size: 3vw;
+    margin-bottom: 10vw;
 }
 .more{
     background: #13293D;
@@ -83,4 +86,11 @@ i{
         margin-top: 0px;
         margin-bottom: 0px;
     }
+}
+
+.einat .banner-area {
+    background: #f4e700;
+}
+.einat .about-area, .einat .feature-area .overlay-bg, .einat .more{
+    background: #585858;
 }
