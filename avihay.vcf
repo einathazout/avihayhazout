@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:אביחי;חזוט;;;
+FN: חזוט  אביחי 
+ORG:שכיר;
+TITLE:רכז תוכנית צוערים לשלטון המקומי
+EMAIL;type=INTERNET;type=WORK;type=pref:avihay@atidim.org.il
+TEL;type=WORK;type=VOICE:+972 52 254 2850 
+item1.ADR;type=WORK;type=pref:
+item1.X-ABADR:sg
+item2.URL;type=pref:atidim.org
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
