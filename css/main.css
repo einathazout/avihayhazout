@@ -136,7 +136,10 @@ i{
 .einat .about-area, .einat .feature-area .overlay-bg, .einat .more{
     background: #585858;
 }
-.avihay .banner-area, .avihay .about-area, .avihay .feature-area .overlay-bg {
+.avihay .banner-left{
+    background: #F2EDE6;
+}
+/*.avihay .banner-area, .avihay .about-area, .avihay .feature-area .overlay-bg {
     background: #F2EDE6;
 }
 .avihay .banner-area, .avihay .about-area, .avihay .feature-area .overlay-bg{
@@ -154,4 +157,4 @@ i{
 .avihay .more{
     background: #F2EDE6;
     color: #385077;
-}
+}*/
